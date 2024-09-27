@@ -1,0 +1,16 @@
+/src
+  /components
+    Header.js
+    About.js
+    Team.js
+    Projects.js
+    Contact.js
+    Footer.js
+  /pages
+    Home.js
+    TeamProfile.js
+    ProjectShowcase.js
+  /styles
+    styles.css
+  App.js
+  index.js
